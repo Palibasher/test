@@ -1,2 +1,3 @@
-No tak pohoje chto ya tchiganka pis
-MENYA NE VOLNUET NA CHTO POHOJE
+You are probably using VI as your editor. You can do two things: press 'i', or 'a', and you will be entering type mode, which can be exited using the ESC key, and then press ':wq', or 'ZZ', which will save the file.
+
+An alternative is probably to use the -m switch on the command line, which will allow you to skip this screen, and supply a message immediately (-m "My message here")
